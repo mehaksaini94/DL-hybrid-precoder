@@ -1,0 +1,4 @@
+Create conda environment with python 3.6 
+Clone this repository
+Open on terminal
+Run: pip install -r requirements.txt
